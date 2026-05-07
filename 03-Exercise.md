@@ -12,7 +12,7 @@ These trees indicate that some groupings are more robust than others. For instan
 
 <ol type="a">
   <li>
-    A group of researchers used a protein sequence from five *Saccharomyces* species to perform a phylogenetic analysis, including a bootstrap analysis such as the one above. Find below the different topologies that were obtained. Draw the most likely tree with bootstrap values based on these results.
+    A group of researchers used a protein sequence from five <em>Saccharomyces</em> species to perform a phylogenetic analysis, including a bootstrap analysis such as the one above. Find below the different topologies that were obtained. Draw the most likely tree with bootstrap values based on these results.
   </li>
 </ol>
 
