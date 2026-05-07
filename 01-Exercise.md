@@ -17,23 +17,23 @@ Bacteria can become resistant to antibiotics with the help of antibiotic resista
 <table>
   <tr>
     <td>Muricauda_lutimaris</td>
-    <td>ATG TGT AAT GAG TGG TTA TTC AGA ATG AAA ATA</td>
+    <td>ATG TGT AAT GAG TGG TT<ins>A</ins> T<ins>T</ins>C AGA ATG AAA AT<ins>A</ins></td>
   </tr>
   <tr>
     <td>Muricauda_aquimarina</td>
-    <td>ATG TGT GAT GAG TGG TTA TCC AGA ATG AAA ATA</td>
+    <td>ATG TGT <ins>G</ins>AT GAG TGG TT<ins>A</ins> TCC AGA ATG AAA AT<ins>A</ins></td>
   </tr>
   <tr>
     <td>Aquimarina_spongiae</td>
-    <td>ATA TGT AAT GAG TGG TTT TCC AGG ATG AAA ATG</td>
+    <td>AT<ins>A</ins> TGT AAT GAG TGG TTT TCC AG<ins>G</ins> ATG AAA ATG</td>
   </tr>
   <tr>
     <td>Aquimarina_algiphila</td>
-    <td>ATA TGG AAT GAG TGG CTT TCC AGA ATC AAA CTG</td>
+    <td>AT<ins>A</ins> TG<ins>G</ins> AAT GAG TGG <ins>C</ins>TT TCC AGA AT<ins>C</ins> AAA <ins>C</ins>TG</td>
   </tr>
   <tr>
     <td>Aquimarina_atlantica</td>
-    <td>ATA TGT AAT GAG TGG TTT TCC AGA ATG AAA CTG</td>
+    <td>AT<ins>A</ins> TGT AAT GAG TGG TTT TCC AGA ATG AAA <ins>C</ins>TG</td>
   </tr>
 </table>
 
