@@ -6,4 +6,4 @@ Phylogenetic trees are an excellent way to characterise the evolutionary history
 Go through the exercises 1 to 3.
 1. [EXERCISE 1: ANTIBIOTIC RESISTANCE GENES](01-Exercise.md)
 2. [EXERCISE 2: BONE MORPHOGENETIC PROTEIN](02-Exercise.md)
-3. [EXERCISE 3 – THE EVOLUTIONARY HISTORY OF YEAS](03-Exercise.md)
+3. [EXERCISE 3: THE EVOLUTIONARY HISTORY OF YEAS](03-Exercise.md)
