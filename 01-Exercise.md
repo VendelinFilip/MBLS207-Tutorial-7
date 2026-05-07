@@ -41,7 +41,7 @@ Bacteria can become resistant to antibiotics with the help of antibiotic resista
   <li>Below you will find part of a phylogenetic gene tree containing Beta-lactamases, one of the protein families encoding Antibiotic Resistance.</li>
 </ol>
 
-<img src="./images/mbls207_tutorial7_1.png" width="400">
+<img src="./images/mbls207_tutorial7_1.png">
 
 <ol type="a" start="2">
   <ol type="i">
