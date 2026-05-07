@@ -2,13 +2,17 @@
 
 Bacteria can become resistant to antibiotics with the help of antibiotic resistance genes (ARGs). Today, ARGs pose one of the major challenges to healthcare worldwide. They can be detected everywhere, from hospitals, to sewers, to deep in the ocean. One of the reasons that ARGs spread so quickly is that bacteria can acquire ARGs not just vertically (via descent from parent cells that had them), but also horizontally (within the same generation, without reproduction). This process is called Horizontal Gene Transfer (HGT).
 
-a. Given the alignment of an ARG below (assume that the 1st position in this alignment is also the 1st position in the codon):
-i. Where are the informative sites for parsimony method?
-ii. Draw a phylogenetic tree using maximum parsimony.
-iii. Do synonymous substitutions occur more often than non-synonymous substitutions?
-Hint, use a codon table such as the one at https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables.
-What does this mean for selective pressure?
-iv. Do transversions occur more often than transitions in this alignment?
+<ol type="a">
+  <li>
+    Given the alignment of an ARG below (assume that the 1st position in this alignment is also the 1st position in the codon):
+  <ol type="i">
+    <li>Where are the informative sites for parsimony method?</li>
+    <li>Draw a phylogenetic tree using maximum parsimony.</li>
+    <li>Do synonymous substitutions occur more often than non-synonymous substitutions? Hint, use a codon table such as the one at <a href="https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables">https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables</a>. What does this mean for selective pressure?</li>
+    <li>Do transversions occur more often than transitions in this alignment?</li>
+  </ol>
+  </li>
+</ol>
 
 <table>
   <tr>
